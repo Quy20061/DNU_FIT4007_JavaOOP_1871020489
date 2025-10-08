@@ -1,3 +1,5 @@
+package part1.basic.variables;
+
 import java.util.Scanner;
 
  class HoanDoi {

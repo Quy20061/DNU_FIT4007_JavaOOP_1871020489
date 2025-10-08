@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class NamSinhVien {
+ class NamSinhVien {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -13,7 +13,5 @@ class NamSinhVien {
 
         // In kết quả
         System.out.println("Năm sinh của sinh viên là: " + namSinh);
-
-        sc.close();
     }
 }
